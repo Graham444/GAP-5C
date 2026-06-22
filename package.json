@@ -1,8 +1,8 @@
 {
-  "name": "gap-5c-system",
+  "name": "gap-5c",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR-GITHUB-USERNAME.github.io/gap-5c",
+  "homepage": "https://graham444.github.io/gap-5c",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
